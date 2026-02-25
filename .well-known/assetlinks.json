@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tilki0024.canlipazar", 
+    "sha256_cert_fingerprints": ["3E:56:2A:F6:0C:55:C2:9C:30:F1:14:D6:6C:A7:03:69:45:12:2C:F4:81:CF:08:FB:90:76:58:3D:4A:C3:5F:B1"]
+  }
+}]
